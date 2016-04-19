@@ -1,0 +1,142 @@
+MEU(A | C = -, B = -, E = -, G = +, F = +)
+MEU(A | C = -, B = -, E = +)
+MEU(A | C = -, B = -, E = +, G = -)
+MEU(A | C = -, B = -, E = +, G = +)
+MEU(A | C = -, B = -, E = +, F = -)
+MEU(A | C = -, B = -, E = +, G = -, F = -)
+MEU(A | C = -, B = -, E = +, G = +, F = -)
+MEU(A | C = -, B = -, E = +, F = +)
+MEU(A | C = -, B = -, E = +, G = -, F = +)
+MEU(A | C = -, B = -, E = +, G = +, F = +)
+MEU(A | C = -, B = -, D = -)
+MEU(A | C = -, B = -, D = -, G = -)
+MEU(A | C = -, B = -, D = -, G = +)
+MEU(A | C = -, B = -, D = -, F = -)
+MEU(A | C = -, B = -, D = -, G = -, F = -)
+MEU(A | C = -, B = -, D = -, G = +, F = -)
+MEU(A | C = -, B = -, D = -, F = +)
+MEU(A | C = -, B = -, D = -, G = -, F = +)
+MEU(A | C = -, B = -, D = -, G = +, F = +)
+MEU(A | C = -, B = -, E = -, D = -)
+MEU(A | C = -, B = -, E = -, D = -, G = -)
+MEU(A | C = -, B = -, E = -, D = -, G = +)
+MEU(A | C = -, B = -, E = -, D = -, F = -)
+MEU(A | C = -, B = -, E = -, D = -, G = -, F = -)
+MEU(A | C = -, B = -, E = -, D = -, G = +, F = -)
+MEU(A | C = -, B = -, E = -, D = -, F = +)
+MEU(A | C = -, B = -, E = -, D = -, G = -, F = +)
+MEU(A | C = -, B = -, E = -, D = -, G = +, F = +)
+MEU(A | C = -, B = -, E = +, D = -)
+MEU(A | C = -, B = -, E = +, D = -, G = -)
+MEU(A | C = -, B = -, E = +, D = -, G = +)
+MEU(A | C = -, B = -, E = +, D = -, F = -)
+MEU(A | C = -, B = -, E = +, D = -, G = -, F = -)
+MEU(A | C = -, B = -, E = +, D = -, G = +, F = -)
+MEU(A | C = -, B = -, E = +, D = -, F = +)
+MEU(A | C = -, B = -, E = +, D = -, G = -, F = +)
+MEU(A | C = -, B = -, E = +, D = -, G = +, F = +)
+MEU(A | C = -, B = -, D = +)
+MEU(A | C = -, B = -, D = +, G = -)
+MEU(A | C = -, B = -, D = +, G = +)
+MEU(A | C = -, B = -, D = +, F = -)
+MEU(A | C = -, B = -, D = +, G = -, F = -)
+MEU(A | C = -, B = -, D = +, G = +, F = -)
+MEU(A | C = -, B = -, D = +, F = +)
+MEU(A | C = -, B = -, D = +, G = -, F = +)
+MEU(A | C = -, B = -, D = +, G = +, F = +)
+MEU(A | C = -, B = -, E = -, D = +)
+MEU(A | C = -, B = -, E = -, D = +, G = -)
+MEU(A | C = -, B = -, E = -, D = +, G = +)
+MEU(A | C = -, B = -, E = -, D = +, F = -)
+MEU(A | C = -, B = -, E = -, D = +, G = -, F = -)
+MEU(A | C = -, B = -, E = -, D = +, G = +, F = -)
+MEU(A | C = -, B = -, E = -, D = +, F = +)
+MEU(A | C = -, B = -, E = -, D = +, G = -, F = +)
+MEU(A | C = -, B = -, E = -, D = +, G = +, F = +)
+MEU(A | C = -, B = -, E = +, D = +)
+MEU(A | C = -, B = -, E = +, D = +, G = -)
+MEU(A | C = -, B = -, E = +, D = +, G = +)
+MEU(A | C = -, B = -, E = +, D = +, F = -)
+MEU(A | C = -, B = -, E = +, D = +, G = -, F = -)
+MEU(A | C = -, B = -, E = +, D = +, G = +, F = -)
+MEU(A | C = -, B = -, E = +, D = +, F = +)
+MEU(A | C = -, B = -, E = +, D = +, G = -, F = +)
+MEU(A | C = -, B = -, E = +, D = +, G = +, F = +)
+MEU(A | C = +, B = -)
+MEU(A | C = +, B = -, G = -)
+MEU(A | C = +, B = -, G = +)
+MEU(A | C = +, B = -, F = -)
+MEU(A | C = +, B = -, G = -, F = -)
+MEU(A | C = +, B = -, G = +, F = -)
+MEU(A | C = +, B = -, F = +)
+MEU(A | C = +, B = -, G = -, F = +)
+MEU(A | C = +, B = -, G = +, F = +)
+MEU(A | C = +, B = -, E = -)
+MEU(A | C = +, B = -, E = -, G = -)
+MEU(A | C = +, B = -, E = -, G = +)
+MEU(A | C = +, B = -, E = -, F = -)
+MEU(A | C = +, B = -, E = -, G = -, F = -)
+MEU(A | C = +, B = -, E = -, G = +, F = -)
+MEU(A | C = +, B = -, E = -, F = +)
+MEU(A | C = +, B = -, E = -, G = -, F = +)
+MEU(A | C = +, B = -, E = -, G = +, F = +)
+MEU(A | C = +, B = -, E = +)
+MEU(A | C = +, B = -, E = +, G = -)
+MEU(A | C = +, B = -, E = +, G = +)
+MEU(A | C = +, B = -, E = +, F = -)
+MEU(A | C = +, B = -, E = +, G = -, F = -)
+MEU(A | C = +, B = -, E = +, G = +, F = -)
+MEU(A | C = +, B = -, E = +, F = +)
+MEU(A | C = +, B = -, E = +, G = -, F = +)
+MEU(A | C = +, B = -, E = +, G = +, F = +)
+MEU(A | C = +, B = -, D = -)
+MEU(A | C = +, B = -, D = -, G = -)
+MEU(A | C = +, B = -, D = -, G = +)
+MEU(A | C = +, B = -, D = -, F = -)
+MEU(A | C = +, B = -, D = -, G = -, F = -)
+MEU(A | C = +, B = -, D = -, G = +, F = -)
+MEU(A | C = +, B = -, D = -, F = +)
+MEU(A | C = +, B = -, D = -, G = -, F = +)
+MEU(A | C = +, B = -, D = -, G = +, F = +)
+******
+A
+decision
+***
+B
+0.2
+***
+C | A B
+0.3 + +
+0.6 + -
+0.95 - +
+0.05 - -
+***
+D | C
+0.2 +
+0.4 -
+***
+E | C
+0.4 +
+0.1 -
+***
+F | E B
+0.3 + +
+0.6 + -
+0.95 - +
+0.05 - -
+***
+G | D E F
+0.8 + + +
+0.5 + + -
+0.3	+ - +
+0.6 + - -
+0.2 - + +
+0.9 - + -
+0.1 - - +
+0.7 - - -
+******
+utility | G A
+100 + +
+50 + -
+10 - +
+0 - -

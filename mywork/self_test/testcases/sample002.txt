@@ -20,6 +20,6 @@ Demoralize | NightDefense Infiltration
 0.95 - +
 0.05 - -
 ******
-utility | Demoralize
+utility | Demoralize 
 100 +
 -10 -
