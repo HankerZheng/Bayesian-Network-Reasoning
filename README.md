@@ -8,13 +8,13 @@ This is the 3rd course project with the test-case generator for CSCI 561 in USC.
     - Starting with "MEU", asking for maximum expected utility, conditioned on other observed evidence, when there is one or more than one unset decision nodes: e.g. `MEU(Infiltration | LeakIdea = +)`
 2. The line after all queries will have six "*" as the seperator.
 3. The following lines represent a Bayesian network by showing the tables of probabilities / conditional probabilities for each event / node. The tables are seperated by three "*", and will have the following format:
-    ```  
-    Demoralize | NightDefense Infiltration  
-    0.3 + +  
-    0.6 + -  
-    0.9 - +  
-    0.05 - -
-    ```
+```  
+Demoralize | NightDefense Infiltration  
+0.3 + +  
+0.6 + -  
+0.9 - +  
+0.05 - -
+```
 4. The first line contains the nodes's name, followed by the names of its parents, separated by a "|" sign (or no "|" sign when there's no parent).
 5. All node names begin with an uppercase letter and contain letters only.
 6. The following lines show the probabilities for all combinations of parent node values.
